@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "943215972929",
+    "project_id": "lab-project-66e5a",
+    "storage_bucket": "lab-project-66e5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943215972929:android:65cdc79a8f6cae47d62cc0",
+        "android_client_info": {
+          "package_name": "com.example.lab_ecommerce_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmpwpYhMFZqLpzrrbjj5ZvHZvcYbABjxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943215972929:android:d4a795bab220b3ccd62cc0",
+        "android_client_info": {
+          "package_name": "com.radian.lab_assignment_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmpwpYhMFZqLpzrrbjj5ZvHZvcYbABjxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943215972929:android:f6cf6fc8fd5150cbd62cc0",
+        "android_client_info": {
+          "package_name": "com.radian.lab_ecommerce_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmpwpYhMFZqLpzrrbjj5ZvHZvcYbABjxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

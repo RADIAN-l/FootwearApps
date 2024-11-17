@@ -1,0 +1,29 @@
+name: lab_assignment_client
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.7.0
+  dropdown_button2: ^2.3.9
+  get: ^4.6.6
+  cloud_firestore: ^5.5.0
+  get_storage: ^2.1.1
+  otp_text_field_v2: ^1.0.3
+  http: ^1.2.2
+  firebase_auth: ^5.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  build_runner: ^2.4.13
+  json_serializable: ^6.8.0
+
+flutter:
+  uses-material-design: true
